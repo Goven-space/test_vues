@@ -4,7 +4,12 @@
 
 <script lang="ts">
   export default {
-    
+    name: "App",
+    data(){
+      return {
+        name: 'wen'
+      }
+    }
   }
 </script>
 <style scoped></style>
